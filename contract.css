@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    cursor: pointer;
+}
+.main{
+    color: black;
+}
+.main1{
+    cursor: pointer;
+}
+.main1{
+    color: black;
+}
+.banner{
+    transition:  all 0.5s ease;
+}
+.banner:hover{
+    transform: scale(1.2,1.2);
+}
